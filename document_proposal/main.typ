@@ -11,6 +11,7 @@
 
 = Introduction
 
+The implementation and simulations presented in this work are available in the project repository: #link("https://github.com/aldajo92/DockingAlgorithmEafit")[https://github.com/aldajo92/DockingAlgorithmEafit].
 
 == Problem Definition
 
